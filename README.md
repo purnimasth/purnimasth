@@ -1,4 +1,4 @@
-Aspiring Data Analyst with 5 years of experience in the IT industry doing technical support. Currently I obtained Springboard's Data Analyst Certification Program. The program has equipped me with the technical proficiency in and experience working with SQL, Python, Tableau, and Power BI needed to assimilate quickly in a data analytics role. Knowledge of data manipulation, cleansing, and visualization design for business insights
+Certified Data Analyst with 5 years of experience in the IT industry doing technical support. Currently got a training in Data Analyst with Springboard. The program has equipped me with the technical proficiency in and experience working with SQL, Python, Tableau, and Power BI needed to assimilate quickly in a data analytics role. Knowledge of data manipulation, cleansing, and visualization design for business insights
 My long term goal would be to use this knowledge and experience combined with my technical and analysis skills and my recently acquired data analytics certificate , to obtain a Data Analysis role in a great company.
 
 Technical Skill and expertise:
